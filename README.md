@@ -1,3 +1,3 @@
 # CodingTest
 
-Algorithm practice for coding test
+# Algorithm practice for coding test
